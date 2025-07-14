@@ -5,7 +5,7 @@ This project builds a movie recommendation system using a content-based method. 
 Demo
 
 Here is a screenshot of the Streamlit app running locally:
-![Movie Recommender Screenshot](images/demo.png)
+![Movie Recommender Screenshot](https://github.com/sandeshinsights/Content-Based-Movie-Recommender/blob/8a5873df7ccd1f5b5d3d84db9ac216ad0cbed678/Screenshot%202025-07-14%20174357.png)
 
 Data Used
 
