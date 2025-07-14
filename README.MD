@@ -2,6 +2,11 @@ Movie Recommendation System
 
 This project builds a movie recommendation system using a content-based method. It suggests movies based on how similar their descriptions (like genre, cast, and plot) are to each other.
 
+Demo
+
+Here is a screenshot of the Streamlit app running locally:
+![Movie Recommender Screenshot](images/demo.png)
+
 Data Used
 
 The system uses the TMDB 5000 Movie Dataset. You can find this dataset on Kaggle. It comes in two files: tmdb_5000_movies.csv and tmdb_5000_credits.csv.
